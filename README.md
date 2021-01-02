@@ -1,1 +1,3 @@
-# FlappyBird
+# Flappy Bird Remake
+
+I used the Pygame module of Python to create the game for the create task of 2020 AP CSP. It is a remake of a game called Flappy Bird. The player needs to control the bird to move through gaps between pipes, the player loses if the bird collides with the pipes or the ground. The player can make the bird fly upwards by pressing up key, if they do not do that, the bird would drop to the ground and therefore the player loses. The bird needs to fly through the pipes, flying through each pair of pipes worth one point and in the end, the player can replay the game by pressing the enter key.
